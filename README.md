@@ -1,7 +1,7 @@
 # 100daysofcodes
 
-```markdown
-Day 1
-[Data Structure and Algorithm](https://youtu.be/POehjAlYqNw)
-[Data Structure and Algorithm](https://youtu.be/uFdm_kXGJkU)
-```
+
+## Day 1
+> [Data Structure and Algorithm 1](https://youtu.be/POehjAlYqNw)
+> 
+> [Data Structure and Algorithm 2](https://youtu.be/uFdm_kXGJkU)
